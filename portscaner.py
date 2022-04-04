@@ -12,7 +12,7 @@ print("""
 """)
 try:
     while(True):
-        print("Trying port"+str(x))
+        print("Trying port "+str(x))
         os.system("wget -T 4 -t 1 5 -qO- 35.180.139.74:"+str(x))
         x += 9
 except:
