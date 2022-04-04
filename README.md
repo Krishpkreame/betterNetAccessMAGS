@@ -11,6 +11,4 @@ Open ports at school
 80
 1642 -1725
 
-test server - (3 dollar a month or something)
-ip - 112.213.37.86
 new ssh - 1727
