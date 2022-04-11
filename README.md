@@ -2,9 +2,11 @@
 
 - Krish Patel
 
+scan for open outgoing ports
+
 Port scaning, ip all the stuff to help find work around for the mags network
 
-Open ports at school
+Open ports at mags
 210
 465
 443
