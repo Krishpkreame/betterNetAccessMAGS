@@ -18,10 +18,3 @@ try:
 except:
     print("stopped")
 
-"""
-cd codingShit/Python
-clear
-python3 portscaner
-
-
-"""
